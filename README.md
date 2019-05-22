@@ -24,6 +24,7 @@ mosaic.cu calculates in single thread, OpenMP and CUDA. It only run on Visual St
 (PS: The code has bugs, but can run. This may not be updated)  
 
 
+___
 这个是用来做马赛克的，会用单线程，OpenMP和CUDA 库来实现。是我上硕士的小作业之一。  
 github上用CUDA写马赛克的比较少， 这个可以作为例子吧  
 这个程序只能用命令行来运行， 详见：  
